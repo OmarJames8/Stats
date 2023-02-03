@@ -1,2 +1,2 @@
 # Stats
-## will be going over the topics of Probability , distrubitons, confidence interval and hypothesis.
+## I will be going over the topics of Probability , distrubitons, confidence interval and hypothesis.
